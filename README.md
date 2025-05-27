@@ -1,0 +1,2 @@
+# Binary_Audio_Generator
+用于把文字转化为二进制音频
