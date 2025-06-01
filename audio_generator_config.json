@@ -1,0 +1,17 @@
+{
+    "audio_parameters": {
+        "sample_rate": 48000,
+        "bits_per_sample": 16,
+        "num_channels": 1,
+        "amplitude": 25000.0,
+        "frequency": 660.0,
+        "end_signal_frequency": 330.0
+    },
+    "durations_ms": {
+        "short_beep": 80.0,
+        "long_beep": 150.0,
+        "bit_silence": 40.0,
+        "byte_silence": 180.0,
+        "end_signal_beep": 300.0 
+    }
+}
